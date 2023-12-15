@@ -19,17 +19,17 @@ This code has a number of required dependencies which have to be pre-installed t
 - matplotlib.pyplot
 - seaborn
 
+Also need to download and save the 2017 and 2022 stackoverflow developer survey reponses which can be found [here](https://insights.stackoverflow.com/survey) These should be saved as "public_survey_results_2017" and "public_survey_results_2022" respectively. 
+
 ## Motivation 
 The motivation behind this project was to analyse the diversity of the respondents to the stack overflow surveys in 2017 and 2022. Through this hopefully we can get indications on the diversity of the developer workforce and the progress it is making. It focuses on gender and ethnicity and looks at their representation, the representation amongst the top earners and salary expectations. 
 
 ## Files 
-Project includes:
-- Jupyter notebook including the code used to run the analysis: ProjectCode.ipynb
-- Stack Overflow Survey Responses 2017
-- Stack Overflow Survey Responses 2022
+Jupyter notebook including the code used to run the analysis: ProjectCode.ipynb
+
 
 ## Usage
-
+Download survey responses before use as stated in installation instructions. 
 Code is commented and split into clear sections to allow ease of use. All parts should-be self explanatory. All contributions are welcome using the existing files (or added more recent surveys) to allow further analysis and insights to be given.
 
 ## Author
